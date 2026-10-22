@@ -1,0 +1,6 @@
+interface:
+  display_name: "Before I Spiral"
+  short_description: "Clarity and self-trust before reflection becomes self-attack."
+  default_prompt: "Use $before-i-spiral to separate facts from self-judgment and help me choose one compassionate, realistic next step."
+policy:
+  allow_implicit_invocation: true
