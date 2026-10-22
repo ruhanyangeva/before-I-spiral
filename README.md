@@ -41,15 +41,15 @@
 
 ## 4. 方法论来源与边界
 
-**佛教正念与慈悲：**保留觉察、减少追加自我惩罚、看见因缘条件、不过早固定自我身份等启发。“第二支箭”源自 [SN 36.6《箭经》](https://www.dhammatalks.org/suttas/SN/SN36_6.html)；这里将其作为日常支持的类比，不把难过归罪于当事人。
+佛教正念与慈悲：保留觉察、减少追加自我惩罚、看见因缘条件、不过早固定自我身份等启发。“第二支箭”源自 [SN 36.6《箭经》](https://www.dhammatalks.org/suttas/SN/SN36_6.html)；这里将其作为日常支持的类比，不把难过归罪于当事人。
 
-**认知行为取向的自助技巧：**参考 NHS 的 [Catch it, check it, change it](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/reframing-unhelpful-thoughts/)，检查无益想法的依据，寻找更平衡的解释。我们的五步流程是产品组织方式，不是一套经过验证的独立疗法。
+认知行为取向的自助技巧：参考 NHS 的 [Catch it, check it, change it](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/reframing-unhelpful-thoughts/)，检查无益想法的依据，寻找更平衡的解释。我们的五步流程是产品组织方式，不是一套经过验证的独立疗法。
 
-**自我慈悲：**参考 Kristin Neff 对觉察、共同人性与自我善意的[介绍](https://self-compassion.org/what-is-self-compassion/)。温和可以与保护、边界和改变并存，不等于放任。
+自我慈悲：参考 Kristin Neff 对觉察、共同人性与自我善意的[介绍](https://self-compassion.org/what-is-self-compassion/)。温和可以与保护、边界和改变并存，不等于放任。
 
 想继续阅读，可从一行禅师的 [The Miracle of Mindfulness](https://www.beacon.org/The-Miracle-of-Mindfulness-P194.aspx) 入手。更多概念怎样落实到回答，见 [方法论与来源](references/METHODS.md)。我们不靠堆书名证明有效，也不复制整套课程或把参考作者列为背书者。
 
-**说明：**我是佛学学习者，不是治疗师。本工具不提供诊断、心理治疗或紧急救助，不承诺治愈。无需信佛、原谅伤害或停止在意现实。持续或严重的困扰值得寻求专业支持；当前危险需要现实中的及时帮助。
+说明：我是佛学学习者，不是治疗师。本工具不提供诊断、心理治疗或紧急救助，不承诺治愈。无需信佛、原谅伤害或停止在意现实。持续或严重的困扰值得寻求专业支持；当前危险需要现实中的及时帮助。
 
 ## 5. 怎么使用：只会和 AI 聊天，也可以
 
